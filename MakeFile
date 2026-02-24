@@ -12,3 +12,6 @@ test:
 	pytest -v
 
 all: install lint test
+
+teste2:
+	echo "Hello World"
